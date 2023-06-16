@@ -162,6 +162,7 @@ cython_debug/
 # exclude data
 *.csv
 /data
+/data_old
 *.npy
 *.mp4
 
