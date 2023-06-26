@@ -165,8 +165,9 @@ cython_debug/
 /data_old
 *.npy
 *.mp4
-*.png
+#*.png
 
 # exclude trained models
 *.h5
-/models
+#/models
+!model_16.h5
